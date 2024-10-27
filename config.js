@@ -39,9 +39,9 @@ module.exports = {
   nodes: [
     {
         name: "Server",
-        host: "LavaLink4.lightsout.in",
-        port: 40069,
-        password: "LightsoutOwnsElves",
+        host: "lava.catfein.com",
+        port: 4000,
+        password: "catfein",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
