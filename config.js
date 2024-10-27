@@ -39,9 +39,9 @@ module.exports = {
   nodes: [
     {
         name: "Server",
-        host: "lavalink01.techbyte.host",
-        port: 2036,
-        password: "NAIGLAVA-dash.techbyte.host",
+        host: "LavaLink4.lightsout.in",
+        port: 40069,
+        password: "LightsoutOwnsElves",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
