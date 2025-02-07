@@ -1,10 +1,10 @@
 r
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTI5MzM1NTcyODM1ODIxNTY4MA.GXanxh.Annn7shXbvOjvPGyWwA85d2Lwl3viEw1RqJCWg",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  mongodbUri : "mongodb+srv://shiva:shiva@discordbot.opd5w.mongodb.net/?retryWrites=true&w=majority",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
