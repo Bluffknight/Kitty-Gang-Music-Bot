@@ -15,14 +15,14 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "server",
+      name: "Public Lavalink v4 NonSSL",
       password: "https://dsc.gg/ajidevserver",
       host: "lava-v4.ajieblogs.eu.org",
       port: 80,
       secure: false
     },
     {
-      name: "server",
+      name: "Muzykant v4",
       password: "https://discord.gg/v6sdrD9kPh",
       host: "lavalink_v4.muzykant.xyz",
       port: 80,
